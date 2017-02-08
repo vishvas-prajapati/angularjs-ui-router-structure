@@ -1,17 +1,17 @@
 # angularjs-ui-router-structure
 	- It's simple angular.js ui routing demo with usage of states and resolve methods.
 
-# install npm packages
+# Install npm packages
 	- npm install
 
-# install bower packages
+# Install bower components
 	- bower install
 
-# install grunt
+# Install grunt
 	- npm install -g grunt-cli
 
 # Run applications
 	- grunt
 
-# Open in brower
+# Open in browser
 	- http://localhost:9000
