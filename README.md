@@ -1,5 +1,5 @@
 # angularjs-ui-router-structure
-	- It's simple angulr.js ui routing demo with usage of states and resolve methods.
+	- It's simple angular.js ui routing demo with usage of states and resolve methods.
 
 # install npm packages
 	- npm install
